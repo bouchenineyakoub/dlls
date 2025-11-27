@@ -1,4 +1,5 @@
 # dlls
+CLIPBOARD FOR FILES 
 📌 ClipboardManager.dll
 
 A lightweight and powerful DLL that exposes advanced Windows Clipboard capabilities — including full support for file operations — whether your application runs locally or through Remote Desktop (RDP / RemoteApp).
